@@ -2,4 +2,4 @@
 
 # WAP to take input from user and store in variable and print it.
 
-print ((input("Input")))
+num = print(int(input("Input from the user is: ")))
