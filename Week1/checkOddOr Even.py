@@ -7,3 +7,5 @@ if (num % 2) == 0:
    print("number is Even")
 else:
    print("number is Odd")
+
+#try reducing no. of lines and variables, there is scope of it.

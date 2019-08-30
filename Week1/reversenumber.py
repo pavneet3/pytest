@@ -11,3 +11,6 @@ while(num > 0):
 
 print("\n Reverse of entered number is = %d" %rev)
 
+# now try it with for loop
+# try to decrease no. of lines, there is still scope of it.
+

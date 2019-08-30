@@ -1,0 +1,1 @@
+# input a number and print if a number is prime or not.
