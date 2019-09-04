@@ -8,3 +8,5 @@ if( ch == 'a' or ch == 'A' or ch == 'e' or ch == 'E' or ch == 'i' or ch == 'I' o
     print("It is a vowel")
 else :
     print("It is a consonant")
+
+    # do it some other way, but later, its not complete yet.

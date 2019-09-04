@@ -20,3 +20,6 @@ while a < n:
     print()
     e = e+2
     a = a+1
+
+
+    # does not print correct height tree. check why.

@@ -26,3 +26,6 @@ num1 = int(input("Enter first number: "))
 num2 = int(input("Enter second number: "))
 
 print("The H.C.F. of", num1,"and", num2,"is", computeHCF(num1, num2))
+
+
+# works well, but not complete now, will do it with recursion.
